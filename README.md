@@ -1,5 +1,4 @@
-# Deepak-DataAnalyst-Internship-Portfolio
-
+## ApexPlanet Internship Portfolio
 
 ## About Me
 
